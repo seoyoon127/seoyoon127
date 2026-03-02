@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 
 
 ## GitHub Stats
-![seoyoon127's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyoon127&show_icons=true&theme=tokyonight&hide=issues)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seoyoon127&theme=nord_dark)
