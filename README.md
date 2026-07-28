@@ -35,11 +35,12 @@ Interested in Backend Development & Spring Boot
 <details>
   <summary>📂 Projects</summary>
 
-| 기간 | 프로젝트 | 설명 | 링크 |
-| :--: | :------ | :-- | :-- |
-| 2026- | **깃털** | AI 기반 깃허브 분석 & 면접 대비 플랫폼 (SpringBoot) | [Git-Turl](https://github.com/Git-Turl/git-turl-backend) |
-| 2026 | **TO:DAY** | 노션, 구글 등 여러 캘린더 어플을 연동하여 일정을 관리하는 올인원 캘린더 서비스 (SpringBoot) | [TO:DAY](https://github.com/UMC-TODAY/today-server) |
-| 2025- | **MeetP!ck** | 대학생들을 위한 메이트 찾기 서비스 (Web) | [MeetP!ck](https://github.com/umc-meetpick/meetpick_frontend) |
+| 기간 | 프로젝트 |  담당 파트 | 설명 | 링크 |
+| :--: | :------ | :-- |:-- | :-- |
+| 2026.07~ | **PLIMAP** | 백엔드 (SprintBoot) | AI 기반 깃허브 분석 & 면접 대비 플랫폼 |  [PLIAMP](https://github.com/UMC10th-PLIMAP/PLIMAP-BE) |
+| 2026.04~ | **깃털** | 백엔드 (SprintBoot) | AI 기반 깃허브 분석 & 면접 대비 플랫폼 |  [Git-Turl](https://github.com/Git-Turl/git-turl-backend) |
+| 2026 | **TO:DAY** | 백엔드 (SprintBoot) | 노션, 구글 등 여러 캘린더 어플을 연동하여 일정을 관리하는 올인원 캘린더 서비스  | [TO:DAY](https://github.com/UMC-TODAY/today-server) |
+| 2025 | **MeetP!ck** | 프론트엔드 (web) | 대학생들을 위한 메이트 찾기 서비스 | [MeetP!ck](https://github.com/umc-meetpick/meetpick_frontend) |
 
 </details>
 
