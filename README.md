@@ -27,6 +27,9 @@ Interested in Backend Development & Spring Boot
 - University Makeus Challenge(UMC) 9기, 10기 SpringBoot 파트 챌린저
 - University Makeus Challenge(UMC) 10기 서울여자대학교 회장
 
+## 📜 Certifications
+- SQLD (SQL Developer)
+
 ## 📈 GitHub Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seoyoon127&theme=nord_dark)
 
@@ -51,7 +54,6 @@ Interested in Backend Development & Spring Boot
 | :--: | :--------- | :------- | :--- |
 | 2025 | **서울여자대학교 GURU 2 (Android)** | 장려상 | [Repo](https://github.com/GURU2-Resona) |
 | 2023 | **서울여자대학교 GURU 1 (Python/HTML)** | 우수상 | |
-
 
 </details>
 
